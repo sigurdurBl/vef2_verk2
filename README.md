@@ -1,4 +1,4 @@
-gat ekki set verkefnið á digital ocean en það virkaði á vurtal host og rendi að sita inn verkefnið með filezilla en vildi ekki virka
+gat ekki set verkefnið á digital ocean en það virkaði á vurtal host og rendi að sita inn verkefnið með filezilla en vildi ekki virka til að uploada vefinum up
 
 1
 er hugbúnaður byggingarlistarmynstur sem almennt er notaður til að þróa notendaviðmót sem skiptir umsókn inn í þrjá samtengdir hlutar. Þetta er gert til að aðgreina innri framsetning upplýsinga frá því hvernig upplýsingar eru kynntar og samþykktar af notandanum.
